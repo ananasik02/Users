@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Nadiia Shcherbiak))",
+        "username": "Matsonka02",
+        "email": "matsonka02@gmail.com",
+        "phone": "0666450160",
+        "website": "php-nadia-test.com",
+        "extension": "jpg"
+    },
+    {
+        "name": "Vitalik",
+        "username": "Vital4ik",
+        "email": "prinzvetall@gmail.com",
+        "phone": "+380666450160",
+        "website": "",
+        "id": 1901202,
+        "extension": "jpg"
+    }
+]
